@@ -9,4 +9,4 @@ Welcome to the Deep Learning. I am putting my best effort to contribute some gre
 
 **Project Directory - [Click Here](https://github.com/ravichaubey/Deep-Learning-Projects/tree/master/ANN%20in%20%20Sports)**
 
-`If you want to contribute any project, Please feel free to add.`
+`If you want to contribute any project, Let us build together.`
